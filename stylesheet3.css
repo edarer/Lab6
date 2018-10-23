@@ -16,6 +16,7 @@ section{
   background-color:Red;
 }
 article{
+  clear:both;
   margin: auto;
     width: 300px;
     height: 300px;
