@@ -1,10 +1,19 @@
+body{
+  background-color: green;
+  font-weight: bold;
+}
+div{
+  width: 50%;
+  margin: auto;
+}
 section{
   float:left;
   background-color:pink;
+  width: 50%;
 }
-aside{
-  float:right;
+#right {
   background-color:Orange;
+  width: 50%;
 }
 body {
 }
